@@ -1,0 +1,219 @@
+C:\Users\admin\Desktop\QuanLiNhanSu\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\bin\Debug\Reports\Frm_Report_LuongThucLanh.resx
+C:\Users\admin\Desktop\QuanLiNhanSu\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\bin\Debug\Reports\Frm_Report_LuongThucLanh.cs
+C:\Users\admin\Desktop\QuanLiNhanSu\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\bin\Debug\Reports\Frm_Report_LuongThucLanh.Designer.cs
+C:\Users\admin\Desktop\QuanLiNhanSu\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\bin\Debug\Nhom3_QuanLyNhanSu.exe.config
+C:\Users\admin\Desktop\QuanLiNhanSu\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\bin\Debug\Nhom3_QuanLyNhanSu.exe
+C:\Users\admin\Desktop\QuanLiNhanSu\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\bin\Debug\Nhom3_QuanLyNhanSu.pdb
+C:\Users\admin\Desktop\QuanLiNhanSu\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+C:\Users\admin\Desktop\QuanLiNhanSu\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\obj\x86\Debug\DoAn_QuanLyNhanSu.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\QuanLiNhanSu\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\obj\x86\Debug\Nhom3_QuanLyNhanSu.FrmChucVu.resources
+C:\Users\admin\Desktop\QuanLiNhanSu\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\obj\x86\Debug\Nhom3_QuanLyNhanSu.FormConnect.resources
+C:\Users\admin\Desktop\QuanLiNhanSu\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\obj\x86\Debug\Nhom3_QuanLyNhanSu.FormStart.resources
+C:\Users\admin\Desktop\QuanLiNhanSu\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\obj\x86\Debug\Nhom3_QuanLyNhanSu.FrmCMND.resources
+C:\Users\admin\Desktop\QuanLiNhanSu\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\obj\x86\Debug\Nhom3_QuanLyNhanSu.FrmDanToc.resources
+C:\Users\admin\Desktop\QuanLiNhanSu\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\obj\x86\Debug\Nhom3_QuanLyNhanSu.FrmDoiMatKhau.resources
+C:\Users\admin\Desktop\QuanLiNhanSu\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\obj\x86\Debug\Nhom3_QuanLyNhanSu.FrmHome.resources
+C:\Users\admin\Desktop\QuanLiNhanSu\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\obj\x86\Debug\Nhom3_QuanLyNhanSu.FrmLogin.resources
+C:\Users\admin\Desktop\QuanLiNhanSu\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\obj\x86\Debug\Nhom3_QuanLyNhanSu.FrmLuong.resources
+C:\Users\admin\Desktop\QuanLiNhanSu\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\obj\x86\Debug\Nhom3_QuanLyNhanSu.FrmMain.resources
+C:\Users\admin\Desktop\QuanLiNhanSu\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\obj\x86\Debug\Nhom3_QuanLyNhanSu.FrmNhanVien.resources
+C:\Users\admin\Desktop\QuanLiNhanSu\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\obj\x86\Debug\Nhom3_QuanLyNhanSu.FrmPhongBan.resources
+C:\Users\admin\Desktop\QuanLiNhanSu\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\obj\x86\Debug\Nhom3_QuanLyNhanSu.FrmThanNhan.resources
+C:\Users\admin\Desktop\QuanLiNhanSu\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\obj\x86\Debug\Nhom3_QuanLyNhanSu.FrmTonGiao.resources
+C:\Users\admin\Desktop\QuanLiNhanSu\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\obj\x86\Debug\Nhom3_QuanLyNhanSu.FrmTrinhDo.resources
+C:\Users\admin\Desktop\QuanLiNhanSu\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\obj\x86\Debug\Nhom3_QuanLyNhanSu.Properties.Resources.resources
+C:\Users\admin\Desktop\QuanLiNhanSu\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\obj\x86\Debug\Nhom3_QuanLyNhanSu.Reports.Frm_Report_ChucVu.resources
+C:\Users\admin\Desktop\QuanLiNhanSu\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\obj\x86\Debug\Nhom3_QuanLyNhanSu.Reports.Frm_Report_LuongThucLanh.resources
+C:\Users\admin\Desktop\QuanLiNhanSu\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\obj\x86\Debug\Nhom3_QuanLyNhanSu.Reports.Frm_Report_NhanVien.resources
+C:\Users\admin\Desktop\QuanLiNhanSu\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\obj\x86\Debug\Nhom3_QuanLyNhanSu.Reports.Frm_Report_PhongBan.resources
+C:\Users\admin\Desktop\QuanLiNhanSu\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\obj\x86\Debug\DoAn_QuanLyNhanSu.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\QuanLiNhanSu\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\obj\x86\Debug\RdlCompile.cache
+C:\Users\admin\Desktop\QuanLiNhanSu\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\obj\x86\Debug\RdlCompile.compiled
+C:\Users\admin\Desktop\QuanLiNhanSu\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\obj\x86\Debug\DoAn_QuanLyNhanSu.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\QuanLiNhanSu\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\obj\x86\Debug\DoAn_QuanLyNhanSu.csproj.CopyComplete
+C:\Users\admin\Desktop\QuanLiNhanSu\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\obj\x86\Debug\Nhom3_QuanLyNhanSu.exe
+C:\Users\admin\Desktop\QuanLiNhanSu\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\obj\x86\Debug\Nhom3_QuanLyNhanSu.pdb
+C:\Users\admin\Desktop\201\QuanLiNhanSu\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\bin\Debug\Reports\Frm_Report_LuongThucLanh.resx
+C:\Users\admin\Desktop\201\QuanLiNhanSu\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\bin\Debug\Reports\Frm_Report_LuongThucLanh.cs
+C:\Users\admin\Desktop\201\QuanLiNhanSu\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\bin\Debug\Reports\Frm_Report_LuongThucLanh.Designer.cs
+C:\Users\admin\Desktop\201\QuanLiNhanSu\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\bin\Debug\Nhom3_QuanLyNhanSu.exe.config
+C:\Users\admin\Desktop\201\QuanLiNhanSu\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\bin\Debug\Nhom3_QuanLyNhanSu.exe
+C:\Users\admin\Desktop\201\QuanLiNhanSu\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\bin\Debug\Nhom3_QuanLyNhanSu.pdb
+C:\Users\admin\Desktop\201\QuanLiNhanSu\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\obj\x86\Debug\DoAn_QuanLyNhanSu.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\201\QuanLiNhanSu\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\obj\x86\Debug\Nhom3_QuanLyNhanSu.FrmChucVu.resources
+C:\Users\admin\Desktop\201\QuanLiNhanSu\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\obj\x86\Debug\Nhom3_QuanLyNhanSu.FormConnect.resources
+C:\Users\admin\Desktop\201\QuanLiNhanSu\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\obj\x86\Debug\Nhom3_QuanLyNhanSu.FormStart.resources
+C:\Users\admin\Desktop\201\QuanLiNhanSu\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\obj\x86\Debug\Nhom3_QuanLyNhanSu.FrmCMND.resources
+C:\Users\admin\Desktop\201\QuanLiNhanSu\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\obj\x86\Debug\Nhom3_QuanLyNhanSu.FrmDanToc.resources
+C:\Users\admin\Desktop\201\QuanLiNhanSu\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\obj\x86\Debug\Nhom3_QuanLyNhanSu.FrmDoiMatKhau.resources
+C:\Users\admin\Desktop\201\QuanLiNhanSu\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\obj\x86\Debug\Nhom3_QuanLyNhanSu.FrmHome.resources
+C:\Users\admin\Desktop\201\QuanLiNhanSu\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\obj\x86\Debug\Nhom3_QuanLyNhanSu.FrmLogin.resources
+C:\Users\admin\Desktop\201\QuanLiNhanSu\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\obj\x86\Debug\Nhom3_QuanLyNhanSu.FrmLuong.resources
+C:\Users\admin\Desktop\201\QuanLiNhanSu\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\obj\x86\Debug\Nhom3_QuanLyNhanSu.FrmMain.resources
+C:\Users\admin\Desktop\201\QuanLiNhanSu\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\obj\x86\Debug\Nhom3_QuanLyNhanSu.FrmNhanVien.resources
+C:\Users\admin\Desktop\201\QuanLiNhanSu\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\obj\x86\Debug\Nhom3_QuanLyNhanSu.FrmPhongBan.resources
+C:\Users\admin\Desktop\201\QuanLiNhanSu\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\obj\x86\Debug\Nhom3_QuanLyNhanSu.FrmThanNhan.resources
+C:\Users\admin\Desktop\201\QuanLiNhanSu\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\obj\x86\Debug\Nhom3_QuanLyNhanSu.FrmTonGiao.resources
+C:\Users\admin\Desktop\201\QuanLiNhanSu\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\obj\x86\Debug\Nhom3_QuanLyNhanSu.FrmTrinhDo.resources
+C:\Users\admin\Desktop\201\QuanLiNhanSu\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\obj\x86\Debug\Nhom3_QuanLyNhanSu.Properties.Resources.resources
+C:\Users\admin\Desktop\201\QuanLiNhanSu\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\obj\x86\Debug\Nhom3_QuanLyNhanSu.Reports.Frm_Report_ChucVu.resources
+C:\Users\admin\Desktop\201\QuanLiNhanSu\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\obj\x86\Debug\Nhom3_QuanLyNhanSu.Reports.Frm_Report_LuongThucLanh.resources
+C:\Users\admin\Desktop\201\QuanLiNhanSu\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\obj\x86\Debug\Nhom3_QuanLyNhanSu.Reports.Frm_Report_NhanVien.resources
+C:\Users\admin\Desktop\201\QuanLiNhanSu\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\obj\x86\Debug\Nhom3_QuanLyNhanSu.Reports.Frm_Report_PhongBan.resources
+C:\Users\admin\Desktop\201\QuanLiNhanSu\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\obj\x86\Debug\DoAn_QuanLyNhanSu.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\201\QuanLiNhanSu\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\obj\x86\Debug\RdlCompile.cache
+C:\Users\admin\Desktop\201\QuanLiNhanSu\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\obj\x86\Debug\RdlCompile.compiled
+C:\Users\admin\Desktop\201\QuanLiNhanSu\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\obj\x86\Debug\DoAn_QuanLyNhanSu.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\201\QuanLiNhanSu\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\obj\x86\Debug\DoAn_QuanLyNhanSu.csproj.CopyComplete
+C:\Users\admin\Desktop\201\QuanLiNhanSu\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\obj\x86\Debug\Nhom3_QuanLyNhanSu.exe
+C:\Users\admin\Desktop\201\QuanLiNhanSu\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\obj\x86\Debug\Nhom3_QuanLyNhanSu.pdb
+C:\Users\admin\Desktop\201\QuanLiNhanSu\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\admin\Desktop\201\QuanLiNhanSu\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\admin\Desktop\201\QuanLiNhanSu\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\admin\Desktop\201\QuanLiNhanSu\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\admin\Desktop\201\QuanLiNhanSu\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\admin\Desktop\201\QuanLiNhanSu\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\admin\Desktop\201\QuanLiNhanSu\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\admin\Desktop\201\QuanLiNhanSu\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\admin\Desktop\201\QuanLiNhanSu\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\admin\Desktop\201\QuanLiNhanSu\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\admin\Desktop\201\QuanLiNhanSu\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\bin\Debug\EnvDTE.dll
+C:\Users\admin\Desktop\201\QuanLiNhanSu\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\admin\Desktop\201\QuanLiNhanSu\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\admin\Desktop\201\QuanLiNhanSu\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\bin\Debug\stdole.dll
+C:\Users\admin\Desktop\201\QuanLiNhanSu\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\admin\Desktop\201\QuanLiNhanSu\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\admin\Desktop\201\QuanLiNhanSu\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\admin\Desktop\201\QuanLiNhanSu\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\bin\Debug\Microsoft.MSXML.dll
+C:\Users\admin\Desktop\201\QuanLiNhanSu\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\admin\Desktop\201\QuanLiNhanSu\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\admin\Desktop\201\QuanLiNhanSu\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\admin\Desktop\201\QuanLiNhanSu\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\admin\Desktop\201\QuanLiNhanSu\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\admin\Desktop\201\QuanLiNhanSu\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\admin\Desktop\201\QuanLiNhanSu\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\admin\Desktop\201\QuanLiNhanSu\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\admin\Desktop\201\QuanLiNhanSu\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\admin\Desktop\201\QuanLiNhanSu\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\admin\Desktop\201\QuanLiNhanSu\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\admin\Desktop\201\QuanLiNhanSu\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\admin\Desktop\201\QuanLiNhanSu\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\admin\Desktop\201\QuanLiNhanSu\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\admin\Desktop\201\QuanLiNhanSu\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\admin\Desktop\201\QuanLiNhanSu\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\admin\Desktop\201\QuanLiNhanSu\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\admin\Desktop\201\QuanLiNhanSu\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\admin\Desktop\201\QuanLiNhanSu\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\admin\Desktop\201\QuanLiNhanSu\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\admin\Desktop\201\QuanLiNhanSu\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\admin\Desktop\201\QuanLiNhanSu\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\admin\Desktop\201\QuanLiNhanSu\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\admin\Desktop\201\QuanLiNhanSu\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\admin\Desktop\201\QuanLiNhanSu\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\admin\Desktop\201\QuanLiNhanSu\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\admin\Desktop\201\QuanLiNhanSu\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\admin\Desktop\201\QuanLiNhanSu\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\admin\Desktop\201\QuanLiNhanSu\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\admin\Desktop\201\QuanLiNhanSu\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\admin\Desktop\201\QuanLiNhanSu\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\admin\Desktop\201\QuanLiNhanSu\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\admin\Desktop\201\QuanLiNhanSu\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\admin\Desktop\201\QuanLiNhanSu\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\admin\Desktop\201\QuanLiNhanSu\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\admin\Desktop\201\QuanLiNhanSu\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\admin\Desktop\201\QuanLiNhanSu\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\admin\Desktop\201\QuanLiNhanSu\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\admin\Desktop\201\QuanLiNhanSu\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\admin\Desktop\201\QuanLiNhanSu\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\admin\Desktop\201\QuanLiNhanSu - Nguyễn Văn Tú\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\admin\Desktop\201\QuanLiNhanSu - Nguyễn Văn Tú\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\admin\Desktop\201\QuanLiNhanSu - Nguyễn Văn Tú\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\admin\Desktop\201\QuanLiNhanSu - Nguyễn Văn Tú\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\admin\Desktop\201\QuanLiNhanSu - Nguyễn Văn Tú\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\bin\Debug\Reports\Frm_Report_LuongThucLanh.resx
+C:\Users\admin\Desktop\201\QuanLiNhanSu - Nguyễn Văn Tú\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\bin\Debug\Reports\Frm_Report_LuongThucLanh.cs
+C:\Users\admin\Desktop\201\QuanLiNhanSu - Nguyễn Văn Tú\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\bin\Debug\Reports\Frm_Report_LuongThucLanh.Designer.cs
+C:\Users\admin\Desktop\201\QuanLiNhanSu - Nguyễn Văn Tú\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\bin\Debug\Nhom3_QuanLyNhanSu.exe.config
+C:\Users\admin\Desktop\201\QuanLiNhanSu - Nguyễn Văn Tú\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\bin\Debug\Nhom3_QuanLyNhanSu.exe
+C:\Users\admin\Desktop\201\QuanLiNhanSu - Nguyễn Văn Tú\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\bin\Debug\Nhom3_QuanLyNhanSu.pdb
+C:\Users\admin\Desktop\201\QuanLiNhanSu - Nguyễn Văn Tú\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\admin\Desktop\201\QuanLiNhanSu - Nguyễn Văn Tú\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\admin\Desktop\201\QuanLiNhanSu - Nguyễn Văn Tú\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\admin\Desktop\201\QuanLiNhanSu - Nguyễn Văn Tú\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\admin\Desktop\201\QuanLiNhanSu - Nguyễn Văn Tú\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\admin\Desktop\201\QuanLiNhanSu - Nguyễn Văn Tú\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\admin\Desktop\201\QuanLiNhanSu - Nguyễn Văn Tú\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\bin\Debug\EnvDTE.dll
+C:\Users\admin\Desktop\201\QuanLiNhanSu - Nguyễn Văn Tú\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\admin\Desktop\201\QuanLiNhanSu - Nguyễn Văn Tú\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\admin\Desktop\201\QuanLiNhanSu - Nguyễn Văn Tú\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\bin\Debug\stdole.dll
+C:\Users\admin\Desktop\201\QuanLiNhanSu - Nguyễn Văn Tú\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\admin\Desktop\201\QuanLiNhanSu - Nguyễn Văn Tú\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\admin\Desktop\201\QuanLiNhanSu - Nguyễn Văn Tú\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\admin\Desktop\201\QuanLiNhanSu - Nguyễn Văn Tú\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\bin\Debug\Microsoft.MSXML.dll
+C:\Users\admin\Desktop\201\QuanLiNhanSu - Nguyễn Văn Tú\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\admin\Desktop\201\QuanLiNhanSu - Nguyễn Văn Tú\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\admin\Desktop\201\QuanLiNhanSu - Nguyễn Văn Tú\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\admin\Desktop\201\QuanLiNhanSu - Nguyễn Văn Tú\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\admin\Desktop\201\QuanLiNhanSu - Nguyễn Văn Tú\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\admin\Desktop\201\QuanLiNhanSu - Nguyễn Văn Tú\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\admin\Desktop\201\QuanLiNhanSu - Nguyễn Văn Tú\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\admin\Desktop\201\QuanLiNhanSu - Nguyễn Văn Tú\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\admin\Desktop\201\QuanLiNhanSu - Nguyễn Văn Tú\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\admin\Desktop\201\QuanLiNhanSu - Nguyễn Văn Tú\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\admin\Desktop\201\QuanLiNhanSu - Nguyễn Văn Tú\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\admin\Desktop\201\QuanLiNhanSu - Nguyễn Văn Tú\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\admin\Desktop\201\QuanLiNhanSu - Nguyễn Văn Tú\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\admin\Desktop\201\QuanLiNhanSu - Nguyễn Văn Tú\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\admin\Desktop\201\QuanLiNhanSu - Nguyễn Văn Tú\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\admin\Desktop\201\QuanLiNhanSu - Nguyễn Văn Tú\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\admin\Desktop\201\QuanLiNhanSu - Nguyễn Văn Tú\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\admin\Desktop\201\QuanLiNhanSu - Nguyễn Văn Tú\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\admin\Desktop\201\QuanLiNhanSu - Nguyễn Văn Tú\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\admin\Desktop\201\QuanLiNhanSu - Nguyễn Văn Tú\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\admin\Desktop\201\QuanLiNhanSu - Nguyễn Văn Tú\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\admin\Desktop\201\QuanLiNhanSu - Nguyễn Văn Tú\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\admin\Desktop\201\QuanLiNhanSu - Nguyễn Văn Tú\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\admin\Desktop\201\QuanLiNhanSu - Nguyễn Văn Tú\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\admin\Desktop\201\QuanLiNhanSu - Nguyễn Văn Tú\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\admin\Desktop\201\QuanLiNhanSu - Nguyễn Văn Tú\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\admin\Desktop\201\QuanLiNhanSu - Nguyễn Văn Tú\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\admin\Desktop\201\QuanLiNhanSu - Nguyễn Văn Tú\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\admin\Desktop\201\QuanLiNhanSu - Nguyễn Văn Tú\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\admin\Desktop\201\QuanLiNhanSu - Nguyễn Văn Tú\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\admin\Desktop\201\QuanLiNhanSu - Nguyễn Văn Tú\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\admin\Desktop\201\QuanLiNhanSu - Nguyễn Văn Tú\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\admin\Desktop\201\QuanLiNhanSu - Nguyễn Văn Tú\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\admin\Desktop\201\QuanLiNhanSu - Nguyễn Văn Tú\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\admin\Desktop\201\QuanLiNhanSu - Nguyễn Văn Tú\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\admin\Desktop\201\QuanLiNhanSu - Nguyễn Văn Tú\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\admin\Desktop\201\QuanLiNhanSu - Nguyễn Văn Tú\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\admin\Desktop\201\QuanLiNhanSu - Nguyễn Văn Tú\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\admin\Desktop\201\QuanLiNhanSu - Nguyễn Văn Tú\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\admin\Desktop\201\QuanLiNhanSu - Nguyễn Văn Tú\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\admin\Desktop\201\QuanLiNhanSu - Nguyễn Văn Tú\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\obj\x86\Debug\DoAn_QuanLyNhanSu.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\201\QuanLiNhanSu - Nguyễn Văn Tú\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\obj\x86\Debug\Nhom3_QuanLyNhanSu.FrmChucVu.resources
+C:\Users\admin\Desktop\201\QuanLiNhanSu - Nguyễn Văn Tú\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\obj\x86\Debug\Nhom3_QuanLyNhanSu.FormConnect.resources
+C:\Users\admin\Desktop\201\QuanLiNhanSu - Nguyễn Văn Tú\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\obj\x86\Debug\Nhom3_QuanLyNhanSu.FormStart.resources
+C:\Users\admin\Desktop\201\QuanLiNhanSu - Nguyễn Văn Tú\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\obj\x86\Debug\Nhom3_QuanLyNhanSu.FrmCMND.resources
+C:\Users\admin\Desktop\201\QuanLiNhanSu - Nguyễn Văn Tú\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\obj\x86\Debug\Nhom3_QuanLyNhanSu.FrmDanToc.resources
+C:\Users\admin\Desktop\201\QuanLiNhanSu - Nguyễn Văn Tú\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\obj\x86\Debug\Nhom3_QuanLyNhanSu.FrmDoiMatKhau.resources
+C:\Users\admin\Desktop\201\QuanLiNhanSu - Nguyễn Văn Tú\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\obj\x86\Debug\Nhom3_QuanLyNhanSu.FrmHome.resources
+C:\Users\admin\Desktop\201\QuanLiNhanSu - Nguyễn Văn Tú\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\obj\x86\Debug\Nhom3_QuanLyNhanSu.FrmLogin.resources
+C:\Users\admin\Desktop\201\QuanLiNhanSu - Nguyễn Văn Tú\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\obj\x86\Debug\Nhom3_QuanLyNhanSu.FrmLuong.resources
+C:\Users\admin\Desktop\201\QuanLiNhanSu - Nguyễn Văn Tú\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\obj\x86\Debug\Nhom3_QuanLyNhanSu.FrmMain.resources
+C:\Users\admin\Desktop\201\QuanLiNhanSu - Nguyễn Văn Tú\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\obj\x86\Debug\Nhom3_QuanLyNhanSu.FrmNhanVien.resources
+C:\Users\admin\Desktop\201\QuanLiNhanSu - Nguyễn Văn Tú\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\obj\x86\Debug\Nhom3_QuanLyNhanSu.FrmPhongBan.resources
+C:\Users\admin\Desktop\201\QuanLiNhanSu - Nguyễn Văn Tú\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\obj\x86\Debug\Nhom3_QuanLyNhanSu.FrmThanNhan.resources
+C:\Users\admin\Desktop\201\QuanLiNhanSu - Nguyễn Văn Tú\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\obj\x86\Debug\Nhom3_QuanLyNhanSu.FrmTonGiao.resources
+C:\Users\admin\Desktop\201\QuanLiNhanSu - Nguyễn Văn Tú\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\obj\x86\Debug\Nhom3_QuanLyNhanSu.FrmTrinhDo.resources
+C:\Users\admin\Desktop\201\QuanLiNhanSu - Nguyễn Văn Tú\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\obj\x86\Debug\Nhom3_QuanLyNhanSu.Properties.Resources.resources
+C:\Users\admin\Desktop\201\QuanLiNhanSu - Nguyễn Văn Tú\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\obj\x86\Debug\Nhom3_QuanLyNhanSu.Reports.Frm_Report_ChucVu.resources
+C:\Users\admin\Desktop\201\QuanLiNhanSu - Nguyễn Văn Tú\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\obj\x86\Debug\Nhom3_QuanLyNhanSu.Reports.Frm_Report_LuongThucLanh.resources
+C:\Users\admin\Desktop\201\QuanLiNhanSu - Nguyễn Văn Tú\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\obj\x86\Debug\Nhom3_QuanLyNhanSu.Reports.Frm_Report_NhanVien.resources
+C:\Users\admin\Desktop\201\QuanLiNhanSu - Nguyễn Văn Tú\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\obj\x86\Debug\Nhom3_QuanLyNhanSu.Reports.Frm_Report_PhongBan.resources
+C:\Users\admin\Desktop\201\QuanLiNhanSu - Nguyễn Văn Tú\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\obj\x86\Debug\DoAn_QuanLyNhanSu.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\201\QuanLiNhanSu - Nguyễn Văn Tú\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\obj\x86\Debug\RdlCompile.cache
+C:\Users\admin\Desktop\201\QuanLiNhanSu - Nguyễn Văn Tú\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\obj\x86\Debug\RdlCompile.compiled
+C:\Users\admin\Desktop\201\QuanLiNhanSu - Nguyễn Văn Tú\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\obj\x86\Debug\DoAn_QuanLyNhanSu.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\201\QuanLiNhanSu - Nguyễn Văn Tú\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\obj\x86\Debug\DoAn_QuanLyNhanSu.csproj.CopyComplete
+C:\Users\admin\Desktop\201\QuanLiNhanSu - Nguyễn Văn Tú\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\obj\x86\Debug\Nhom3_QuanLyNhanSu.exe
+C:\Users\admin\Desktop\201\QuanLiNhanSu - Nguyễn Văn Tú\Nhom3_QuanLyNhanSu\Nhom3_QuanLyNhanSu\obj\x86\Debug\Nhom3_QuanLyNhanSu.pdb
